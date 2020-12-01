@@ -629,6 +629,14 @@
          "description":"The MHA assigns a registration number to each NGO - this number is time limited, for example 4 years, after which the registration is reviewed."
       },
       {
+         "category":"MNE",
+         "code":"MNE",
+         "name":"Central Registry of Commercial Entities",
+         "url":"http://www.crps.me/",
+         "public-database":true,
+         "description": "The registration of business entities in Montenegro is conducted with the Central Register of business entities run by the Tax Administration."
+      },
+      {
          "category":"MW",
          "code":"MW-CNM",
          "name":"The Council for Non Governmental Organisations in Malawi",
